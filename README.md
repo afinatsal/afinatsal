@@ -37,28 +37,6 @@ Outside of research, I run AfinLabs AI Solutions, where I build custom AI agents
 
 ---
 
-### Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/afinatsal/hscn-waste-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afinatsal&repo=hscn-waste-detection&theme=radical" />
-</a>
-<a href="https://github.com/afinatsal/portfolio-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afinatsal&repo=portfolio-react&theme=radical" />
-</a>
-<br/>
-<a href="https://github.com/afinatsal/rag-xcamp-website-revamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afinatsal&repo=rag-xcamp-website-revamp&theme=radical" />
-</a>
-<a href="https://github.com/afinatsal/python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afinatsal&repo=python&theme=radical" />
-</a>
-
-</div>
-
----
-
 ### GitHub Stats
 
 <div align="center">
