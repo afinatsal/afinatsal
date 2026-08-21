@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Afin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20·%20Computer%20Vision%20Researcher%20·%20Founder%20of%20AfinLabs&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Afin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20·%20Computer%20Vision%20Researcher%20·%20Founder%20of%20AfinLabs&descAlignY=58&descSize=16" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E0FF&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Deep+Learning;Building+YOLOv12+%2B+HSCN+for+my+thesis;Founder+%40+AfinLabs+AI+Solutions;Flask+%7C+FastAPI+%7C+Multi-Agent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00E0FF&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Deep+Learning;Building+YOLOv12+%2B+HSCN+for+my+thesis;Founder+%40+AfinLabs+AI+Solutions;Flask+%7C+FastAPI+%7C+Multi-Agent+Systems" />
 </a>
 
 </div>
 
----
+<br>
 
 ### About Me
 
 I'm a Computer Science student at Universitas Brawijaya (FILKOM UB), currently researching a two-stage hierarchical waste detection pipeline that combines YOLOv12 with HSCN (Hierarchical Sibling Classification Network) for my thesis.
 
-Outside of research, I run AfinLabs AI Solutions, where I build custom AI agents for companies. I've interned at PT Amman Mineral Internasional and PT XLSmart Telecom Sejahtera, and I teach Python as a practicum instructor at FILKOM and FMIPA UB. Right now I'm mainly working on a multi-agent AI orchestrator using a Task Graph and State Machine pattern, built with FastAPI, Gemini 2.5 Flash, and Supabase.
+Outside of research, I run **AfinLabs AI Solutions**, where I build custom AI agents for companies. I've interned at PT Amman Mineral Internasional and PT XLSmart Telecom Sejahtera, and I teach Python as a practicum instructor at FILKOM and FMIPA UB. Right now I'm mainly working on a multi-agent AI orchestrator using a Task Graph and State Machine pattern, built with FastAPI, Gemini 2.5 Flash, and Supabase.
 
----
+<br>
 
 ### Tech Stack
 
@@ -35,30 +35,7 @@ Outside of research, I run AfinLabs AI Solutions, where I build custom AI agents
 
 </div>
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=afinatsal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afinatsal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afinatsal&theme=radical&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/afinatsal/afinatsal/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
+<br>
 
 <div align="center">
 
@@ -72,4 +49,4 @@ Outside of research, I run AfinLabs AI Solutions, where I build custom AI agents
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=90&section=footer" />
